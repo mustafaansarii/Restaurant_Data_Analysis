@@ -1,1 +1,1 @@
-# PRODIGY_DS_INTERN
+# Cognifyz_Technologies_Internship
