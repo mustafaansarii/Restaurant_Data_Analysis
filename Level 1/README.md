@@ -1,13 +1,3 @@
-# Task: Top Cuisines
-
-Welcome to the "Task: Top Cuisines" project! This project aims to analyze a dataset of restaurants and derive insights related to top cuisines, city analysis, price range distribution, and online delivery services.
-
-## Table of Contents
-1. [Task 1: Top Cuisines](#task-1-top-cuisines)
-2. [Task 2: City Analysis](#task-2-city-analysis)
-3. [Task 3: Price Range Distribution](#task-3-price-range-distribution)
-4. [Task 4: Online Delivery](#task-4-online-delivery)
-
 ## Task 1: Top Cuisines
 - **Objective:** Determine the top three most common cuisines in the dataset and calculate the percentage of restaurants that serve each of the top cuisines.
 
