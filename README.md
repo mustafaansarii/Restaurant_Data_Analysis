@@ -10,7 +10,7 @@ Cognifyz Technologies is a leading technology company specializing in the dynami
 
 Welcome to our exciting Data Analysis internship program! To complete this internship, you have the chance to choose any 2 of 3 levels: Level 1, Level 2, or Level 3. Successful completion of Level 3 (any 2 tasks out of 3) will enhance your chances of receiving a stipend.
 
-### Level 1 Tasks((https://github.com/mustafaansarii/Cognifyz_Technologies_Internship/tree/main/Level%201))
+### [Level 1 Tasks](https://github.com/mustafaansarii/Cognifyz_Technologies_Internship/tree/main/Level%201)
 
 #### Task 1: Top Cuisines
 - Determine the top three most common cuisines in the dataset.
