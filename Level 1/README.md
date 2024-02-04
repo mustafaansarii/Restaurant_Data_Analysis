@@ -2,7 +2,7 @@
 - **Objective:** Determine the top three most common cuisines in the dataset and calculate the percentage of restaurants that serve each of the top cuisines.
 
 ![Task 1](/Level%201/Task%201/assets/Cuisines3.png)
-
+![Task 1](/Level%201/Task%201/assets/to%20restorant.png)
 ## Task 2: City Analysis
 - **Objective:** Identify the city with the highest number of restaurants, calculate the average rating for restaurants in each city, and determine the city with the highest average rating.
 
