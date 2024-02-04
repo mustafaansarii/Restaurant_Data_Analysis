@@ -17,7 +17,7 @@ In this project, we aim to analyze the distribution of aggregate ratings, determ
 - **Action:** Calculate the average number of votes received by restaurants.
 
 ### Task 2: Cuisine Combination
-
+![Task 1 Image](/Level%202/Task%202/assets/d1.png)
 - **Objective:** Identify the most common combinations of cuisines in the dataset.
 - **Action:** Determine if certain cuisine combinations tend to have higher ratings.
 
