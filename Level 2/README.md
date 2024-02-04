@@ -11,8 +11,7 @@ In this project, we aim to analyze the distribution of aggregate ratings, determ
 ### Task 1: Restaurant Ratings Analysis
 
 ![Task 1 Image](/Level%202/Task%201/assets/data1.png)
-![restaurant_map HTML](/Level%202/Task%203/restaurant_map.html)
-![restaurant_clusters_map HTML](/Level%202/Task%203/restaurant_clusters_map.html)
+
 - **Objective:** Analyze the distribution of aggregate ratings and determine the most common rating range.
 - **Action:** Calculate the average number of votes received by restaurants.
 
