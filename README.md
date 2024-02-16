@@ -1,7 +1,3 @@
-# Cognifyz Internship Program - Data Analysis
-
-Welcome to Cognifyz's Data Analysis Internship Program! Below is an overview of the program structure, tasks.
-
 # About the Restaurant Analysis Project
 
 Welcome to the Restaurant Analysis Project by Cognifyz! In this data-driven exploration, we aim to unravel fascinating insights within the dynamic realm of restaurant data. Our mission is to leverage the power of data analysis to uncover patterns, trends, and correlations that exist in the culinary world.
